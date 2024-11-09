@@ -18,6 +18,7 @@ components:
       rootRequired: false
       uri: docker/Dockerfile
     imageName: quay.io/redhattraining/openshift-dev-deploy-cli-weather:1.0
+    image: quay.io/redhattraining/openshift-dev-deploy-cli-weather:1.0
   name: build
 
 - kubernetes:
